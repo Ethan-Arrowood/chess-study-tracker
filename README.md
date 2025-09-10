@@ -54,12 +54,6 @@ Keep these questions in mind and try to detail summaries for quick review:
 2. What are the main ideas for both sides in this opening?
 3. What are the common plans and pitfalls?
 
-### Notes Template
-
-```
-
-```
-
 ### White `1. e4 e5 2. Nf3 Nc6 3. Bb5` Ruy Lopez
 
 **Study Status:** Not started / In progress / Comfortable
